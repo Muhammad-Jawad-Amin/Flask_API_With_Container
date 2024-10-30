@@ -40,7 +40,7 @@ This API provides data on PM2.5 pollution levels across various geographic coord
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/air-quality-api.git
+   git clone https://github.com/Muhammad-Jawad-Amin/Flask_API_With_Container.git
    cd Flask_API_With_Container
 
 2. **Prepare Data**:
